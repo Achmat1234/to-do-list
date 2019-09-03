@@ -13,13 +13,6 @@ body {
     }
 }
 
-
-.form-control{
-    background: url("../images/bg.gif") no-repeat;
-    background-size: 100%;
-
-}
-
 .btn btn-primary {
     text-align: center;
     cursor: pointer;
