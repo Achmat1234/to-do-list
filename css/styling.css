@@ -13,14 +13,11 @@ body {
     }
 }
 
-.col-sm-8{
-    background: #FF4136;
-}
 
 .form-control{
     background: url("../images/bg.gif") no-repeat;
     background-size: 100%;
-    color:blue;
+
 }
 
 .btn btn-primary {
